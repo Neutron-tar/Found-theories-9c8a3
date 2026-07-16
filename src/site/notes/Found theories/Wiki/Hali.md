@@ -6,4 +6,4 @@ Hali is some kind of being that really wants to help the main cast, but she cant
 
 
 
-![Pasted image 20260715112642.png\|412](/img/user/attatchements/Pasted%20image%2020260715112642.png)
+![Pasted image 20260715112642.png\|412](/img/user/Attachments/Pasted%20image%2020260715112642.png)

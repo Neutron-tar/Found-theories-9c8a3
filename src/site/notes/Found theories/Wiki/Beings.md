@@ -6,4 +6,4 @@ I thinks that this beings are some kind of gods or ancestors, they will probably
 
 They prob know about the [[Found theories/Wiki/Substance\|Substance]].
 
-![Pasted image 20260715112115.png](/img/user/attatchements/Pasted%20image%2020260715112115.png)
+![Pasted image 20260715112115.png](/img/user/Attachments/Pasted%20image%2020260715112115.png)
