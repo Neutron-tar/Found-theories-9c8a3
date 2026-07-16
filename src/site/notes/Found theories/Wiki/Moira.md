@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/found-theories/wiki/moira/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/found-theories/wiki/moira/","created":"2026-07-15T09:35:55.907+01:00","updated":"2026-07-16T01:08:20.018+01:00","dg-note-properties":{}}
 ---
 
 Moira is the MC of the story and she is female.

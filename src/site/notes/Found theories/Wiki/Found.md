@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/found-theories/wiki/found/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/found-theories/wiki/found/","created":"2026-07-15T09:19:22.565+01:00","updated":"2026-07-16T01:09:14.313+01:00","dg-note-properties":{}}
 ---
 
 Found is a series that will probably have 3 season. This will be a series that talks about cats! and mental disabilities, accepting yourself, changes in the world around us and identity.

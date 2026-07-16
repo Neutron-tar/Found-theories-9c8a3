@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/found-theories/wiki/main-cast/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/found-theories/wiki/main-cast/","created":"2026-07-15T09:30:32.694+01:00","updated":"2026-07-16T01:08:32.642+01:00","dg-note-properties":{}}
 ---
 
 The main cast consists of two females, [[Found theories/Wiki/Moira\|Moira]] and [[Found theories/Wiki/Taru\|Taru]], and two males, [[Found theories/Wiki/Kiito\|Kiito]] and [[Found theories/Wiki/Koivu\|Koivu]].

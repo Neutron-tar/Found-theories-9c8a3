@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/found-theories/wiki/substance/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/found-theories/wiki/substance/","created":"2026-07-15T13:17:57.973+01:00","updated":"2026-07-16T01:08:13.956+01:00","dg-note-properties":{}}
 ---
 
 This black substance is only behind Moira, we don't know what it is, but prob is something bad

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/found-theories/wiki/amore/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/found-theories/wiki/amore/","created":"2026-07-15T08:55:45.137+01:00","updated":"2026-07-16T01:08:01.826+01:00","dg-note-properties":{}}
 ---
 
 

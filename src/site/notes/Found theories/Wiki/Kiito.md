@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/found-theories/wiki/kiito/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/found-theories/wiki/kiito/","created":"2026-07-15T09:35:56.996+01:00","updated":"2026-07-16T01:08:48.456+01:00","dg-note-properties":{}}
 ---
 
 Kitto is in the main cast, he can fly and he is trans (female-male).
