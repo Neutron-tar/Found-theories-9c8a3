@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/found-website/memes-and-images-gallery/meme-gallery/meme-images/amore-likes-cookies-lachlan2120/","tags":["meme"],"created":"2026-07-17T11:07:08.584+01:00","updated":"2026-07-17T11:25:22.032+01:00","dg-note-properties":{"tags":["meme"],"image":"Pasted image 20260717110952.png"}}
+---
+
+
+![Pasted image 20260717110952.png](/img/user/Assets/Attachments/Pasted%20image%2020260717110952.png)
