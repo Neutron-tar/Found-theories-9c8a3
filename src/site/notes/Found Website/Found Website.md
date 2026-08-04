@@ -1,14 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/found-website/found-website/","tags":["gardenEntry"],"created":"2026-07-15T22:13:40.684+01:00","updated":"2026-07-16T22:44:30.548+01:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/found-website/found-website/","tags":["gardenEntry"],"created":"2026-07-15T22:13:40.684+01:00","updated":"2026-08-04T14:12:14.559+01:00","dg-note-properties":{}}
 ---
 
-Hi, this website is made for lore, memes and other things about "Found", a new project being created.
-
-This website is still in construction!
+<span style="color:rgb(251, 67, 254)">Welcome to the Found Website Have Fun<br></span>
+<span style="color:rgb(112, 48, 160)">This website is still under construction, but if u have any ideia to help me u can contact me, im neutron in the server</span>
 
 ---
-
-# How to access other files?
 
 If you click on the left side of the screen and click on the Found Website folder, you can access the  folders, each folder has a note that you can click and see what's inside.
 
